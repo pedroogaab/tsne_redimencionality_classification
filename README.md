@@ -3,9 +3,6 @@
 ## About
 This project compares the performance of Euclidean and Cosine distances in the KNN classification algorithm. It was developed as a technical test for a Junior Machine Learning Software Developer position.
 
-## Results
-The Euclidean distance showed better performance across all metrics (accuracy, F1-score, AUC, and Top-3).
-
 ## Installation
 ```bash
 # Install dependencies

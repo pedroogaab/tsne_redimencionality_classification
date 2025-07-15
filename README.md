@@ -1,4 +1,4 @@
-# ML Junior Practical Test
+# Images resized with tsne for classification using KNN with the best K
 
 ## About
 This project compares the performance of Euclidean and Cosine distances in the KNN classification algorithm. It was developed as a technical test for a Junior Machine Learning Software Developer position.
